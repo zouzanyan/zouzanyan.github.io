@@ -1,3 +1,11 @@
 # afn
 
-<span style="font-family: Times New Roman; font-size: 50px;">Don't watch the clock; do what it does. Keep going</span>
+
+
+<div style="font-family: 'Times New Roman',system-ui; font-size: 24px">
+
+This is a Fastly and Quite tool for Java Development
+
+
+
+</div>
